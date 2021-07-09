@@ -1,0 +1,51 @@
+header {
+  background-image: url("https://img.vixdata.io/pd/jpg-large/pt/sites/default/files/bdm/desenhos-animados-anos-80-90.jpg");
+  background-size: cover;
+  height: 80px;
+  border-radius: 5px;
+}
+
+body {
+  background-color: #d64161;
+}
+
+
+section{
+  display: block;
+  margin-top: 100px;
+  background-color: #d6cbd3;
+  padding: 15px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid;
+  border-radius: 5px;
+  -webkit-box-shadow: 5px 3px 22px 3px rgba(0,0,0,0.59); 
+  box-shadow: 5px 3px 22px 3px rgba(0,0,0,0.59); 
+}
+
+div{
+  background-color: rgb(255, 255, 128);
+  font-family: 'New Tegomin', serif;
+  border: 3px solid black;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+h1 {
+  font-family:'New Tegomin', serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: 5px solid;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-color: white;
+  transform: translateY(-50%);
+}
